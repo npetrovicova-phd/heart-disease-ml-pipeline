@@ -88,6 +88,3 @@ pip install scikit-learn xgboost pandas
 Open `heart_disease_project.ipynb` in Jupyter or VS Code
 and run all cells top to bottom (Shift + Enter each cell).
 
----
-
-## Project Structure
